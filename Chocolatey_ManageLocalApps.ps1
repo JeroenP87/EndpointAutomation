@@ -1,4 +1,4 @@
-#Chocolatey Manage Local Files
+#Chocolatey Manage Local Applications
 #2023.07.04 potsolutions.nl
 
 $osInfo = Get-WmiObject -Class Win32_OperatingSystem
