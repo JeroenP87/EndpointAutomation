@@ -87,3 +87,5 @@ foreach ($updateref in $updaterefs) {
 
 #update existing Applications
 choco.exe upgrade all -y
+
+exit $remediated
